@@ -32,4 +32,9 @@
     .btn:active {
         transform: scale(0.95); 
     }
+
+        .product__features-item:hover {
+        background: var(--color-decor-dark);
+        color: var(--bg-color-product);
+    }
 }
