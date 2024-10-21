@@ -62,3 +62,8 @@ window.addEventListener('scroll', function() {
 });
 
 window.dispatchEvent(new Event('scroll'));
+
+document.querySelector('.product__terms').addEventListener('click', (e) => {
+    e.preventDefault();
+    console.log('Клик ^_^')
+});
