@@ -1,0 +1,35 @@
+@media (min-width: 1024px) {
+    .header__discount-box {
+        background-image: url('../img/bg/discountBgSet/discountBg-1920.webp');
+    }
+
+    .container-product {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center; 
+        column-gap: 64px; 
+        row-gap: 0px;
+        padding-right: 32.5px;
+    }
+
+    .product__wrapper {
+        padding: 0 0 0 32.5px;
+    }
+
+    .container-advantage {
+        justify-content: space-between;
+    }
+
+    .advantage__block {
+        width: calc((100vw - 1024px) / (1919 - 1024) * (568 - 344) + 344px);
+        padding: calc((100vw - 1024px) / (1919 - 1024) * (63 - 32) + 32px) 0 0 calc((100vw - 1024px) / (1919 - 1024) * (63 - 32) + 32px);
+    }
+
+    .btn:hover {
+        transform: scale(1.05); 
+    }
+
+    .btn:active {
+        transform: scale(0.95); 
+    }
+}

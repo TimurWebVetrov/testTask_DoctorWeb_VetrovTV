@@ -1,0 +1,100 @@
+@media (min-width: 1920px) {
+    .header {
+        width:  1141px  
+    }
+
+    .container-header {
+        padding-top: 104px;
+        padding-bottom: 64px;
+        row-gap: 64px;
+    }
+
+    .header__content-box {
+        row-gap: 16px;
+    }
+
+    .header__title {
+        font-size: 86px;
+        line-height: 100.78px;
+    }
+    
+    .header__subtitle {
+        font-size: 40px;
+        line-height: 46.88px;
+    }
+
+    .header__discount-box {
+        height: 618px;
+        width: 1168px;
+    }
+
+    .header__decor {
+        left: 35px;
+        height: 440px;
+    }
+
+    .header__discount {
+        top: 30px;
+        right: 50px;
+        padding: 19px 35px;
+        border-radius: 42px;
+    }
+    
+    .header__discount-text {
+        font-size: 86px;
+        line-height: 100.78px;
+    }
+
+    .product {
+        width: 1141px;
+    }
+
+    .container-product {
+        padding-right: 0;   
+    }
+
+    .product__wrapper {
+        width: 509px;
+        padding: 0;
+    }
+
+    .product-card {
+        margin: 0;
+    }
+
+    .btn-card {
+        margin: 0;
+        padding: 15px 72px;
+    }
+
+    .advantage {
+        width:  1141px  
+    }
+
+    .container-advantage {
+        column-gap: 32px;
+        padding-top: 64px;
+        padding-bottom: 166px;
+    }
+
+    .advantage__block {
+        width: 569px;
+        height: 616px;
+        padding: 64px 0 0 64px;
+    }
+
+    .advantage__title {
+        font-size: 32px;
+        line-height: 37.5px;
+    }
+
+    .advantage__item {
+        font-size: 20px;
+        line-height: 23.44px;  
+    }
+
+    .container-footer {
+        left: -14px;
+        width:  1141px;
+    }
+}

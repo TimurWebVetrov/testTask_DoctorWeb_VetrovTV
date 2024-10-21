@@ -1,0 +1,19 @@
+:root {
+    --bg-color-main: #ffffff;
+    --bg-color-product: #1A1A1A;
+    --bg-color-footer: #212121;
+
+    --color-text-main-light: #000000;
+    --color-text-main-dark: #FFFFFF;
+    --color-text-second-light: #666666;
+    --color-text-second-dark: #D9D9D9;
+    --color-text-footer: #C6C7C8;
+
+    --color-main: #69B42E;
+    --color-main-action: #80BF4D;
+    --color-main-content: #FFFFFF;
+    --color-decor-dark: #CCCCCC;
+    --color-decor-light: #B3B3B3;
+
+    --text-main: Roboto;
+}
