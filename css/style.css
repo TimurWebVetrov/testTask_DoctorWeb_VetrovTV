@@ -166,6 +166,10 @@ html {
     transition: .25s;
 }
 
+.product__features-item:active {
+    transform: scale(0.95);
+}
+
 .product__description {
     font-size: 16px;
     font-weight: 400;
